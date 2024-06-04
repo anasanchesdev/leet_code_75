@@ -2,8 +2,10 @@
 Variáveis:
 - Lista de números -> nums (list)
 - Número alvo -> target (int)
-- Resultado -> indexes (list)
--
+- Resultado -> indexes (list) [p1, p2]
+- p1 -> posição 1
+- p2 -> posição 2
+- le -> tamanho de nums
 
 Processamento das variáveis:
 - Iterar sobre a nums para descobrir quais números somam e resultam em target
